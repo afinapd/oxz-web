@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DemoQA Web Automation Testing
 
 This project contains automated test cases for the DemoQA website using Python with Selenium WebDriver and Behave BDD framework.
@@ -95,3 +96,6 @@ The project follows the Page Object Model pattern:
 - **BookstorePage**: Handles book listing, search, and navigation
 - **LoginPage**: Manages authentication operations
 - **ProfilePage**: Handles profile-related actions and book management
+=======
+# oxz-web
+>>>>>>> 1d67b9212f33376fd574f7b4bfff0f189dd325e6
